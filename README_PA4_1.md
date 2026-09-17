@@ -148,17 +148,19 @@ Hometowndf.plot(kind='bar', ax=axes[2])
 
 The resulting figure contains three bar graphs showing the sample mean according to Track, Gender, and Hometown.
 
-Based on the calculated sample means, the Communication track has a mean of 67.975, Instrumentation has 65.225, and Microelectronics has 67.500. The notebook therefore identifies Communication as having the highest sample mean in the Track category.
-
 * The highest sample mean in the Track category is Communication
-
-The calculated sample mean is 66.616667 for Female students and 67.183333 for Male students. The notebook therefore identifies Male as having the higher sample mean in the Gender category.
+  
+Based on the calculated sample means, the Communication track has a mean of 67.975, Instrumentation has 65.225, and Microelectronics has 67.500. The notebook therefore identifies Communication as having the highest sample mean in the Track category.
 
 * The highest sample mean in the Gender category is Male
 
-The calculated sample mean is 68.083333 for Luzon, 66.678571 for Mindanao, and 65.750000 for Visayas. The notebook therefore identifies Luzon as having the highest sample mean in the Hometown category.
+The calculated sample mean is 66.616667 for Female students and 67.183333 for Male students. The notebook therefore identifies Male as having the higher sample mean in the Gender category.
 
 * The highest sample mean in the Hometown category is Luzon
+
+The calculated sample mean is 68.083333 for Luzon, 66.678571 for Mindanao, and 65.750000 for Visayas. The notebook therefore identifies Luzon as having the highest sample mean in the Hometown category.
+
+The dataset shows differences in average scores across Track, Gender, and Hometown groups. However, these differences describe only the observed data and do not establish that a student's Track, Gender, or Hometown causes a higher or lower board-exam score.
 
 The End.
 
